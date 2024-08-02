@@ -9,7 +9,4 @@
 🤝 Let's connect and collaborate on some exciting projects together! Whether you're a fellow developer, a potential mentor, or just someone who shares a passion for all things tech, I'd love to hear from you.
 
 
-<!---
-zamange/zamange is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![zamange's GitHub | Languages Over Time](https://stats.quira.sh/zamange/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=zamange)
