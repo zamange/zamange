@@ -1,6 +1,6 @@
 👋 Hello there! I'm Zamagcina Ngeyane, a passionate software engineering student with a knack for building innovative solutions using Python, HTML&CSS, Java, and JavaScript.
 
-![Anya Forger's Creepy Grin](https://media.tenor.com/images/0a1681b7c89a8a21e9b74694b091b9b7/tenor.gif)
+![Anya Forger's Creepy Grin](https://media.tenor.com/images/5eab84b42519d4e5cc66b8947b55807f/tenor.gif)
 
 💻 My journey into the world of coding began with Python, and I've been hooked ever since. Whether it's developing web applications, automating tasks, or diving into data analysis, Python is my go-to tool.
 
