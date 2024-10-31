@@ -1,6 +1,6 @@
 👋 Hello there! I'm Zamagcina Ngeyane, a passionate software engineering student with a knack for building innovative solutions using Python, HTML&CSS, Java, and JavaScript.
 
-![Anya Forger's Creepy Grin](https://media.tenor.com/images/5eab84b42519d4e5cc66b8947b55807f/tenor.gif)
+<div class="tenor-gif-embed" data-postid="25683900" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/spy-x-family-anya-anya-smug-smug-face-smile-gif-25683900">Spy X Family Anya GIF</a>from <a href="https://tenor.com/search/spy+x+family-gifs">Spy X Family GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 💻 My journey into the world of coding began with Python, and I've been hooked ever since. Whether it's developing web applications, automating tasks, or diving into data analysis, Python is my go-to tool.
 
