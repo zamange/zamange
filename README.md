@@ -1,4 +1,6 @@
-👋 Hello there! I'm Zamagcina Ngeyane, a passionate software engineering student with a knack for building innovative solutions using Python, HTML&CSS, Java, and JavaScript.
+👋 Hello there! I'm Zamagcina Ngeyane
+
+A passionate software engineering student with a knack for building innovative solutions using Python, HTML&CSS, Java, and JavaScript.
 
 💻 My journey into the world of coding began with Python, and I've been hooked ever since. Whether it's developing web applications, automating tasks, or diving into data analysis, Python is my go-to tool.
 
